@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Hritik",
+        "dob": "2003-09-17",
+        "class": "cse",
+        "subjects": [
+            "dsa",
+            "os",
+            "cn"
+        ],
+        "marks": {
+            "dsa": 80.0,
+            "os": 85.0,
+            "cn": 90.0
+        },
+        "roll": 100000
+    },
+    {
+        "name": "Abhishek",
+        "dob": "2002-01-01",
+        "class": "cse",
+        "subjects": [
+            "os",
+            "cns"
+        ],
+        "marks": {
+            "os": 80.0,
+            "cns": 90.0
+        },
+        "roll": 100001
+    },
+    {
+        "name": "abhishek",
+        "dob": "2003-01-01",
+        "class": "ece",
+        "subjects": [
+            "ee",
+            "ml"
+        ],
+        "marks": {
+            "ee": 70.0,
+            "ml": 60.0
+        },
+        "roll": 100002
+    },
+    {
+        "name": "rehan",
+        "dob": "2000-09-11",
+        "class": "mech",
+        "subjects": [
+            "ktg",
+            "ktg2"
+        ],
+        "marks": {
+            "ktg": 50.0,
+            "ktg2": 60.0
+        },
+        "roll": 100003
+    }
+]
